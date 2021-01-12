@@ -1,4 +1,4 @@
-The download contains files corresponding to the results discussed in the paper titled "A pythonic approach to the boundary element method of solution for the three dimensional, infinite depth, water wave diffraction radiation problem"
+The download contains files corresponding to the results discussed in the paper titled "An Open-Source Python-Based Boundary-Element Method Code for the Three-Dimensional Zero-Froude, Infinite-Depth, Water-Wave Diffraction-Radiation Problem "
 
 The following folders are present in this download:
 1. OMHyD_VR0V1 Files : Contains the OMHyD code and examples.
