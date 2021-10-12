@@ -8,7 +8,7 @@ The following folders are present in this download:
 *********************************************************************************************
 RUNNING THE OMHyD examples
 *********************************************************************************************
-1. Download the OMHyD_VROV1 folder to a computer with PYTHON installed.
+1. Download the OMHyD_VROV1 folder to a computer with Python 3.7 installed.
 2. Open the Frond_End_Files folder.
 3. Copy the required example front-end file and paste in the OMHyD_VROV1 folder.
 4. Open the copied front-end file and run the code.
