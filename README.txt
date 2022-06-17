@@ -9,7 +9,7 @@ The following folders are present in this download:
 RUNNING THE OMHyD examples
 *********************************************************************************************
 1. Download the OMHyD_VROV1 folder to a computer with PYTHON installed.
-2. Open the Frond_End_Files folder.
+2. Open the Front_End_Files folder.
 3. Copy the required example front-end file and paste in the OMHyD_VROV1 folder.
 4. Open the copied front-end file and run the code.
 5. For examples with 'waves=off' in the front-end file, only the graphical result will be displayed on successful execution.
@@ -25,5 +25,5 @@ RUNNING THE Appendix A examples
 ANSYS verification
 *********************************************************************************************
 1. ANSYS workbench file size exceeds the GitHub limit. Mail the author at savinvis@gmail.com to get the files.
-2. The excel file contains formulae in the yellow coloured cells. Dimensional data from ANSYS is entered in the uncoloured cells the generate the corresponding non dimensionalized data.
+2. The excel file contains formulae in the yellow coloured cells. Dimensional data from ANSYS is entered in the uncoloured cells to generate the corresponding non dimensionalized data.
 ****End****
